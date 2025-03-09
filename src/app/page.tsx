@@ -1,0 +1,1 @@
+Okay, I'm waiting for the tracker content to generate the code for `src/app/page.tsx`. Please provide the tracker in GenStack NextOnPages Tracker Format (XML).
